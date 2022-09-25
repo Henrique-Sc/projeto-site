@@ -17,10 +17,6 @@ main {
     box-shadow: 3px 3px 5px rgb(121, 121, 121); /*x y blur size*/
 }
 
-@media screen { 
-    
-}
-
 h1 {
     font-size: 2em;
     color: rgb(58, 0, 112);
