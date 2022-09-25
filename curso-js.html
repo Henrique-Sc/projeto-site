@@ -18,6 +18,14 @@
 
             <a href="index.html"><img src="imagens/btn-back.png" alt="Voltar"></a>
         </article>
+
+        <script>
+            function heightIframe() {
+                iframe = document.getElementById('iframe')
+                iframe.style.height = `${iframe.getBoundingClientRect().width * 9 / 16}px`;
+            }
+        </script>
+        
     </main>
 </body>
 </html>
