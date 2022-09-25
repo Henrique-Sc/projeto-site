@@ -24,3 +24,14 @@ h2 {
     font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
+
+img.floatRight {
+    float: right;
+    position: relative;
+    top: -5px;
+}
+
+iframe {
+    width: 500px;
+    height: 315px;
+}
